@@ -10,4 +10,4 @@ En Puntazo (“nosotros”, “nuestro”), recogemos y usamos datos de usuario 
 No compartimos datos personales con terceros.  
 Usamos Firebase, cuyos términos y política de privacidad están en https://firebase.google.com/support/privacy  
 
-Si tienes dudas: trovolt@hotmail.es
+Si tienes dudas: puntazo.feedback@gmail.com
